@@ -1,0 +1,2 @@
+# rickypedia
+Repo de parcial
